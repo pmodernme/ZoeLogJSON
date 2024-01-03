@@ -1,5 +1,15 @@
 # ZoeLog JSON file documentation<br>v3.0 (300) pre-release
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Example](#example)
+- [Production](#production)
+- [ReportMetadata](#reportmetadata)
+- [Report](#report)
+- [Entry](#entry)
+- [LogData](#logdata)
+- [Take](#take)
+
 ## Introduction
 
 **ZoeLog 3.0 features the ability to export a JSON file alongside its standard file formats (PDF, CSV, plain text) to enable seamless integration with third-party video processing applications.** This file provides information entered by users on set during filming, offering developers a powerful tool to enrich their editing workflows.
