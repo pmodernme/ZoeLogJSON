@@ -1,0 +1,182 @@
+{
+    "production_title": "Space Movie",
+    "production_metadata": {
+        "director": "Some Director",
+        "production": "Some Production Company",
+        "A Custom Variable Field": "Some data",
+        "camera": "Some DOP",
+        "contact2": "Some phone number",
+        "contact1": "Some address"
+    },
+    "reports": [
+        {
+            "roll": "A34",
+            "camera": "A",
+            "shooting_date": "2024-01-03",
+            "entries": [
+                {
+                    "slate": null,
+                    "scene": "X3",
+                    "episode": null,
+                    "timecode": "13:50:53:18",
+                    "origin_date": "2024-01-03T12:49:33.580-08:00",
+                    "report_metadata": {
+                        "director": "Some Director",
+                        "A Custom Variable Field": "Some data",
+                        "camera": "Some DOP",
+                        "signed": "Roxy"
+                    },
+                    "log_data": {
+                        "Lens": "14mm",
+                        "Lens Type": "Cooke S4i",
+                        "Color Temp": "5600K",
+                        "Description": "Low angle wide establishing. The captain and crew appear.",
+                        "FPS": "23.976fps",
+                        "Filters": "POLA, IRND2.1",
+                        "Focus": "16’",
+                        "ISO": "800EI",
+                        "Lens Height": "8”",
+                        "LUT": "EXT_Day",
+                        "Shutter": "180∢",
+                        "Stop": "T2.8½",
+                        "Tilt": "4°up"
+                    },
+                    "takes": [
+                        {
+                            "name": "1",
+                            "circled": false,
+                            "clip": 1,
+                            "origin": "2024-01-03T12:56:49.178-08:00"
+                        },
+                        {
+                            "name": "2",
+                            "circled": true,
+                            "clip": 2,
+                            "origin": "2024-01-03T12:56:50.180-08:00"
+                        },
+                        {
+                            "name": "3",
+                            "circled": true,
+                            "clip": 3,
+                            "origin": "2024-01-03T12:56:51.037-08:00"
+                        },
+                        {
+                            "name": "4 SER",
+                            "circled": true,
+                            "clip": 4,
+                            "origin": "2024-01-03T12:56:52.009-08:00"
+                        },
+                        {
+                            "name": "4 SER",
+                            "circled": true,
+                            "clip": 5,
+                            "origin": "2024-01-03T12:56:52.009-08:00"
+                        },
+                        {
+                            "name": "4 SER",
+                            "circled": true,
+                            "clip": 6,
+                            "origin": "2024-01-03T12:56:52.009-08:00"
+                        }
+                    ]
+                },
+                {
+                    "slate": null,
+                    "scene": "3A",
+                    "episode": null,
+                    "timecode": "15:50:37:15",
+                    "origin_date": "2024-01-03T14:33:12.467-08:00",
+                    "report_metadata": {
+                        "director": "Some Director",
+                        "A Custom Variable Field": "Some data",
+                        "camera": "Some DOP",
+                        "signed": "Roxy"
+                    },
+                    "log_data": {
+                        "Lens": "40mm",
+                        "Lens Type": "Cooke S4i",
+                        "Color Temp": "5600K",
+                        "Description": "Med of the captain.",
+                        "FPS": "23.976fps",
+                        "Filters": "POLA, IRND2.1",
+                        "Focus": "5’3”",
+                        "ISO": "800EI",
+                        "Lens Height": "53”",
+                        "LUT": "EXT_Day",
+                        "Shutter": "180∢"
+                    },
+                    "takes": [
+                        {
+                            "name": "1",
+                            "circled": false,
+                            "clip": 7,
+                            "origin": "2024-01-03T14:50:54.321-08:00"
+                        },
+                        {
+                            "name": "2",
+                            "circled": true,
+                            "clip": 8,
+                            "origin": "2024-01-03T14:50:56.437-08:00"
+                        },
+                        {
+                            "name": "3 PU",
+                            "circled": true,
+                            "clip": 9,
+                            "origin": "2024-01-03T14:50:57.271-08:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "roll": "B25",
+            "camera": "B",
+            "shooting_date": "2024-01-03",
+            "entries": [
+                {
+                    "slate": null,
+                    "scene": "3A",
+                    "episode": null,
+                    "timecode": null,
+                    "origin_date": "2024-01-03T14:52:26.976-08:00",
+                    "report_metadata": {
+                        "director": "Some Director",
+                        "A Custom Variable Field": "Some data",
+                        "camera": "Some DOP"
+                    },
+                    "log_data": {
+                        "Lens": "85mm",
+                        "Lens Type": "Cooke S4i",
+                        "Color Temp": "5600K",
+                        "FPS": "23.976fps",
+                        "Filters": "IRND1.8, POLA",
+                        "ISO": "800EI",
+                        "LUT": "EXT_Day",
+                        "Shutter": "180∢",
+                        "Stop": "T2.8½"
+                    },
+                    "takes": [
+                        {
+                            "name": "1",
+                            "circled": false,
+                            "clip": 1,
+                            "origin": "2024-01-03T14:53:09.609-08:00"
+                        },
+                        {
+                            "name": "2",
+                            "circled": true,
+                            "clip": 2,
+                            "origin": "2024-01-03T14:53:10.597-08:00"
+                        },
+                        {
+                            "name": "3 PU NR",
+                            "circled": false,
+                            "clip": null,
+                            "origin": "2024-01-03T14:53:13.290-08:00"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
