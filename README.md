@@ -1,4 +1,4 @@
-# ZoeLog JSON file documentation<br>v3.0 (300) pre-release
+# ZoeLog JSON file documentation<br>v3.0 (30XX) pre-release
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -20,8 +20,6 @@
 - JSON format for easy parsing and integration.
 
 **This documentation details the structure and contents of the ZoeLog JSON file.**
-
-*Note: While it is not anticipated that the format will change, it is worth noting that development of ZoeLog 3.0 is not complete. There is not a release date, and a beta version is not ready to be available at this time.*
 
 ## Example
 
